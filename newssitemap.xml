@@ -4,6 +4,7 @@
   <url>
     <!-- Article URLS go below -->
   <loc>https://news.masonnet.org/article1.html</loc>
+  <loc>https://news.masonnet.org/article2.html</loc>
   <news:news>
     <news:publication>
       <news:name>MASONNET News</news:name>
